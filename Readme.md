@@ -1,4 +1,4 @@
-# AirBnb NYC Tableau Dashboard Analysis
+<h1> <img src="https://cdn.worldvectorlogo.com/logos/airbnb.svg" alt="spotify_logo" width="75" height="60"/>AirBnb NYC Tableau Dashboard Analysis </h1>
 
 #### Tableau Dashboard link(Public): https://public.tableau.com/app/profile/hemangi.patil7585/viz/Airbnb_Tableau_Dashboard/Dashboard1?publish=yes
 
